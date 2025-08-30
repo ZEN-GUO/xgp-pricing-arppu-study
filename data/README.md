@@ -21,11 +21,11 @@ Markdown → CSV
 - What it does:
   - Parses HTML/pipe tables in .md → emits parsed_tables/*.csv (adds source_vintage_date if the filename contains YYYY-MM-DD).
 - Usage:
-pip install pandas lxml
-# Convert all MD tables in an interim folder
-python tools/md2csv_simple.py data/interim
-# Or specific files
-python tools/md2csv_simple.py data/interim/xgp_standard_pricing_table_2024-09-10.md
+`pip install pandas lxml`
+Convert all MD tables in an interim folder  
+`python tools/md2csv_simple.py data/interim`
+Or specific files
+`python tools/md2csv_simple.py data/interim/xgp_standard_pricing_table_2024-09-10.md`
 
 FX data
 - Google Sheets (GOOGLEFINANCE) — used for 2025-08-01 file
