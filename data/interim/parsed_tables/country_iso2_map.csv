@@ -1,0 +1,86 @@
+iso2,country,currency
+AL,Albania,USD
+DZ,Algeria,DZD
+AR,Argentina,ARS
+AU,Australia,AUD
+AT,Austria,EUR
+BH,Bahrain,BHD
+BE,Belgium,EUR
+BO,Bolivia,USD
+BA,Bosnia and Herzegovina,USD
+BR,Brazil,BRL
+BG,Bulgaria,BGN
+CA,Canada,CAD
+CL,Chile,CLP
+CO,Colombia,COP
+CR,Costa Rica,CRC
+HR,Croatia,EUR
+CY,Cyprus,EUR
+CZ,Czech Republic,CZK
+DK,Denmark,DKK
+EC,Ecuador,USD
+EG,Egypt,EGP
+SV,El Salvador,USD
+EE,Estonia,EUR
+FI,Finland,EUR
+FR,France,EUR
+GE,Georgia,USD
+DE,Germany,EUR
+GR,Greece,EUR
+GT,Guatemala,GTQ
+HN,Honduras,USD
+HK,Hong Kong,HKD
+HU,Hungary,HUF
+IS,Iceland,ISK
+IN,India,INR
+ID,Indonesia,IDR
+IE,Ireland,EUR
+IL,Israel,ILS
+IT,Italy,EUR
+JP,Japan,JPY
+KW,Kuwait,KWD
+LV,Latvia,EUR
+LY,Libya,USD
+LI,Liechtenstein,Swiss Franc
+LT,Lithuania,EUR
+LU,Luxembourg,EUR
+MK,Macedonia,USD
+MY,Malaysia,MYR
+MT,Malta,EUR
+MX,Mexico,MXN
+MD,Moldova,USD
+ME,Montenegro,EUR
+MA,Morocco,MAD
+NL,Netherlands,EUR
+NZ,New Zealand,NZD
+NI,Nicaragua,USD
+NO,Norway,NOK
+OM,Oman,OMR
+PA,Panama,USD
+PY,Paraguay,USD
+PE,Peru,PEN
+PH,Philippines,PHP
+PL,Poland,PLN
+PT,Portugal,EUR
+QA,Qatar,QAR
+RO,Romania,LEU
+SA,Saudi Arabia,SAR
+RS,Serbia,RSD
+SG,Singapore,SGD
+SK,Slovakia,EUR
+SI,Slovenia,EUR
+ZA,South Africa,ZAR
+KR,South Korea,KRW
+ES,Spain,EUR
+SE,Sweden,SEK
+CH,Switzerland,CHF
+TW,Taiwan,TWD
+TH,Thailand,THB
+TN,Tunisia,TND
+TR,Turkey,TRY
+UA,Ukraine,UAH
+AE,United Arab Emirates,USD
+GB,United Kingdom,GBP
+US,United States,USD
+UY,Uruguay,USD
+VN,Vietnam,VND
